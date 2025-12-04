@@ -3,8 +3,8 @@
 本项目使用多维混沌算法对视频流进行加密。以下是 **原始视频** 与 **加密视频** 的关键片段对比。
 
 <p align="center">
-  <img src="./assets/demo_original.gif" alt="原始视频演示" style="width: 48%; margin-right: 2%;">
-  <img src="./assets/demo_encrypted.gif" alt="加密视频演示" style="width: 48%;">
+  <img src="origin.png" alt="原始视频截图" style="width: 48%; margin-right: 2%;">
+  <img src="encryption.png" alt="加密视频截图" style="width: 48%;">
 </p>
 
 <p align="center">
